@@ -1,108 +1,99 @@
-[Back to CoderDojo McDonough website](http://www.coderdojohenry.com)
+[Back to CoderDojo Iowa City website](http://www.coderdojoic.org)
 
-# Thanks for attending CoderDojo McDonough!
+# Thanks for attending CoderDojo Iowa City!
 
-CoderDojo McDonough is a free and fun place where Henry County's kids learn how to code, supported by mentors and
+CoderDojo Iowa City is a free and fun place where Johnson County's kids learn how to code, supported by mentors and
 parents! We hope you have a great time.
 
-Students, remember that the dojo is partly a classroom, but mostly a
-playground. Ultimately, you get to decide what programming languages,
+Kids, remember that the dojo is partly a classroom, but mostly a
+playground. That's one of the reasons we refer to students of the dojo as "ninjas".
+Ultimately, you get to decide what programming languages,
 tools, and ideas you want to explore, learn, and play with. And, all of us:
-mentors, other students, and parents are here to help you learn and have fun.
+mentors, other ninjas, and parents are here to help you learn and have fun.
 
 We want you to feel free to pursue what is interesting to you. You can
 always ask a mentor about things that interest you, or any other questions you
 have.
 
+## Online registraton for sessions
+
+CoderDojo Iowa City uses Eventbrite.com's ticketing system to reserve spaces for ninjas at each session. Visit http://coderdojoic.eventbrite.com and click the "Saturday CoderDojo Iowa City" link to reserve spots for a session.  You will need to RSVP separately for all sessions you want your ninja to attend.
+
+Parents should reserve a ticket for themselves only if they are planning to attend with their ninja(s). This will helps us to know how many mentors we will need to adequately run the dojo.
+
+Mentors should reserve tickets far in advance of the dojo date to help out the organizers.  ;-)
 
 ## Key Times
 
-  * 1:00 PM: Volunteers begin setting up
-  * 1:30 PM: Doors open - parents and students check in at the library
-    lobby. 
+  * 1:30 PM: Volunteers begin setting up
+  * 1:50 PM: Doors open - parents and ninjas check in at the library
+    computer lab.
   * 2:00 PM: Welcome and kickoff -- Mentors will describe the goals for
     their group and coding begins.
-  * 4:15 PM: Sessions wind up -- Mentors seek feedback from the students
+  * 3:15 PM: Sessions wind up -- Mentors seek feedback from the ninjas
     about the session and ask them what they want to try next time
-  * 4:30 PM: Volunteers begin shutting down
+  * 3:20 PM: Show-and-tell -- ninjas demostrate new discoveries or solutions to challenges
+  * 3:30 PM: Volunteers begin shutting down
 
 ## Getting here
 
-[Google Maps link for McDonough Public
-Library](https://www.google.com/maps/place/1001+Florence+Mcgarity+Blvd/)
+[Google Maps link for Iowa City Public
+Library](https://www.google.com/maps/place/Iowa+City+Public+Library)
 
 ## What to bring
 
-  * Bring a laptop for your child. If you do not have access to a laptop
-    please email info@coderdojohenry.com and we will try to make one
-available for you.
-  * We'll have soft drinks and water and a some snacks, but if you'd
-    like to bring some other snacks to share, that would be great.  
-  
+  * Bring a laptop for your ninja. If you do not have access to a laptop
+    please email coderdojo.iowa.city@gmail.com and we will try to make one available for you.
 
-## Before attending a session
+## Parents and ninjas
 
+### Before attending a session
 See our [Web Browsers](web_browsers.md) page for suggestions regarding the web browser used during coding sessions.
 
-Please create an account on either the [Codecademy](http://www.codecademy.com) or [Scratch](http://scratch.mit.edu) websites on behalf of your children. Your child will need to use the same login information for each CoderDojo session.  Children who would like to learn programming concepts with minimal typing involved should be registered for Scratch.  Other students should be registered for Codecademy.
+Parents, please create an account on [our website](https://coderdojoic.org) and one of the following:
+
+  * [Codecademy](http://www.codecademy.com)
+  * [Scratch](http://scratch.mit.edu)
+
+on behalf of each ninja. Your ninja will need to use the same login information for each CoderDojo session.  Ninja(s) who would like to learn programming concepts with minimal typing involved should be registered for Scratch.  Other ninjas should be registered for Codecademy.
 
 In case there are difficulties connecting to the internet at the
-library, please have the following software installed on the student's laptop
+library, please have the following software installed on the ninja's laptop
 before they come. Thumb drives will be available with the necessary software if you are unable to install the software before the
 session.
 
-**Scratch students:** install Scratch from
-[http://scratch.mit.edu](http://scratch.mit.edu)
+#### Scratch ninjas:
+  - [ ] install Scratch from [http://scratch.mit.edu](http://scratch.mit.edu)
 
-**JavaScript and HTML/CSS students:** install the free editor Brackets
-from [http://brackets.io/](http://brackets.io/) or
-another popular code editor like Sublime Text 2. (*NOTE: While Sublime Text 2 offers an extended evaluation period during which it is free to use, it is *not* free software.*)
+#### JavaScript and HTML/CSS ninjas
+  - [ ] install Brackets [http://brackets.io/](http://brackets.io/) or Notepad++ [http://notepad-plus-plus.org/](http://notepad-plus-plus.org).
 
+#### Java and Minecraft ninjas _(ADVANCED)_
+  - [ ] install Eclipse from [https://eclipse.org/downloads/](https://eclipse.org/downloads/)
+  - [ ] download latest Minecraft Forge source code and documentation from [http://files.minecraftforge.net/](http://files.minecraftforge.net/). You want the **recommended** _"Src"_ and _"Javadoc"_ files.  _Hint: to avoid the AdFly waiting page, click the "\*" link that's to the right of "Src" and "Javadoc"_
+  - [ ] install Forge following these instructions on the wiki: [http://www.minecraftforge.net/wiki/Installation/Source](http://www.minecraftforge.net/wiki/Installation/Source)
 
+### When you arrive
 
-## When you arrive
+Parents and ninjas check in at the 2nd floor computer lab. A mentor will help you sign in and guide you to the appropriate seat. Ninjas should get a name tag and print their first name on their name tag.
 
-Parents and students check in at the library lobby. A mentor will sign you in and guide you to the appropriate session room. Students should get a name tag and print their first name on their name tag.
+Ninjas can join another group at any time.  Ninjas younger than 12 who are complete beginners are encouraged to join the Scratch group.  We encourage the parent and ninja to discuss and decided what session their ninja attends.  Talk to a mentor for advice on what session your ninja should attend.
 
-Students can join another session at any time.  Students 7 - 12 who are complete beginners are encouraged to join the Scratch group.  We encourage the parent and student to discuss and decided what session their student attends.  Talk to a mentor for advice on what session your student should attend.
-
-## Online registraton for sessions
-
-CoderDojo McDonough uses Meetup.com's RSVP system to reserve spaces for students at each session. Visit our website and click the "RSVP for a session" link to reserve your student's spot for a session.  You will need to RSVP separately for all sessions you want your student to attend.
-
-Parents should only RSVP for the number of students participating and do
-not include parents or guardians. This will allow us to know how many students to allow based on our number of mentors.
-
-Due to the high level of student interest, attendees who are not registered
-on [our Meetup.com site](http://meetup.com/CoderDojoMcDonough) may not be allowed to sit in a session room with a mentor. Students who are not on our RSVP list will wait in a waiting area. If the room is full
-to capacity with registered students, students not on the RSVP will be allowed to either move to another dojo session with availability
-or students can sit in another area of the library and work on code learning websites with minimal help from a mentor. Mentors will work to ensure that all students in the library at least have access to a text editor or Scratch and ability to view learning material.  If a session room is not full with registered students when the dojo begins around 1:30pm, dojo coordinators will begin to allow waiting students to sit in the session room.
-
-Mentors are encouraged to lead groups with no more than 8 students.  Having a limit on the number of students per mentor makes sure that students who register are able to receive adequate attention.
-
-## Advanced Student Signup
-
-We encourage intermediate or advanced students to register using our
-Advanced Student Signup form at [http://www.coderdojohenry.com/AdvancedStudentSignup](http://www.coderdojohenry.com/AdvancedStudentSignup).  Intermediate students are students who understand the basics of HTML/CSS, JavaScript, Scratch, or another programming language. Having more details about our intermediate students will allow the coordinators to match students with mentors.  All students must still RSVP for each session.  Students who register using our Advanced Student Signup form but do not RSVP for a session using our Meetup site may not be able to attend the session they want.
+## Mentors
+Mentors are encouraged to lead groups with no more than 8 ninjas.  Having a limit on the number of ninjas per mentor makes sure that ninjas who register are able to receive adequate attention.
 
 ## Learning resources before your first session or in between sessions
 
-Please see our **[Students getting started and online learning guide
-](http://www.coderdojohenry.com/learning-guide)**. In it, you'll find lots of great free resources
-that you
-should study and practice with in your own time on the following
-learning
-tracks:
+Please see our **[Online learning guide](http://www.coderdojoic.org/learning-guide)**. In it, you'll find lots of great free resources
+that you should study and practice with in your own time on the following learning tracks:
 
   * Scratch
   * HTML/CSS
   * JavaScript
- 
 
-You should start on one or more of these tracks so that you'll have good
-questions and ideas for what you'd like to learn more about when you
-visit the
-dojo in person.
+
+You should start on one or more of these tracks so that you'll have good questions and ideas for what you'd like to learn more about when you
+visit the dojo in person.
 
 ### Highly recommended
 
@@ -115,4 +106,4 @@ We want you to have fun and learn lots of new things! We also love your
 feedback and want to know what kinds of ideas you have and what you want
 to learn, so let us know when you visit! Thanks!
 
-[Back to CoderDojo McDonough website](http://www.coderdojohenry.com)
+[Back to CoderDojo Iowa City website](http://www.coderdojoic.org)
