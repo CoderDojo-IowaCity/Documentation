@@ -17,33 +17,11 @@ have.
 
 ## Online registraton for sessions
 
-CoderDojo Iowa City uses Eventbrite.com's ticketing system to reserve spaces for ninjas at each session. Visit http://coderdojoic.eventbrite.com and click the "Saturday CoderDojo Iowa City" link to reserve spots for a session.  You will need to RSVP separately for all sessions you want your ninja to attend.
+CoderDojo Iowa City uses Eventbrite.com's ticketing system to reserve spaces for ninjas at each session. Visit http://coderdojoic.eventbrite.com and click the event link to reserve spots for a session.  
 
-Parents should reserve a ticket for themselves only if they are planning to attend with their ninja(s). This will helps us to know how many mentors we will need to adequately run the dojo.
+Parents should reserve a 'Parent' ticket for themselves only if they are planning to attend with their ninja(s). You will need to reserve 'Ninja' tickets for every session your ninja(s) attends. This will helps us to know how many mentors we will need to adequately run the dojo.  Please specify the name of the ninja(s) on each ticket seperately so we can prepare name tags in advance. 
 
-Mentors should reserve tickets far in advance of the dojo date to help out the organizers.  ;-)
-
-## Key Times
-
-  * 1:30 PM: Volunteers begin setting up
-  * 1:50 PM: Doors open - parents and ninjas check in at the library
-    computer lab.
-  * 2:00 PM: Welcome and kickoff -- Mentors will describe the goals for
-    their group and coding begins.
-  * 3:15 PM: Sessions wind up -- Mentors seek feedback from the ninjas
-    about the session and ask them what they want to try next time
-  * 3:20 PM: Show-and-tell -- ninjas demostrate new discoveries or solutions to challenges
-  * 3:30 PM: Volunteers begin shutting down
-
-## Getting here
-
-[Google Maps link for Iowa City Public
-Library](https://www.google.com/maps/place/Iowa+City+Public+Library)
-
-## What to bring
-
-  * Bring a laptop for your ninja. If you do not have access to a laptop
-    please email coderdojo.iowa.city@gmail.com and we will try to make one available for you.
+Mentors are asked to reserve tickets > 1 week in advance of the dojo date to help the organizers.  :smiley:
 
 ## Parents and ninjas
 
@@ -57,21 +35,55 @@ Parents, please create an account on [our website](https://coderdojoic.org) and 
 
 on behalf of each ninja. Your ninja will need to use the same login information for each CoderDojo session.  Ninja(s) who would like to learn programming concepts with minimal typing involved should be registered for Scratch.  Other ninjas should be registered for Codecademy.
 
-In case there are difficulties connecting to the internet at the
-library, please have the following software installed on the ninja's laptop
-before they come. Thumb drives will be available with the necessary software if you are unable to install the software before the
-session.
+In the rare event that we have to cancel or move the dojo, we will make every effort to communicate that information via
+  * [Facebook](www.facebook.com/CoderDojoIACity), 
+  * [Twitter](http://twitter.com/CoderDojoIACity), and 
+  * our [Zen page](https://zen.coderdojo.com/dojo/68).  
 
-#### Scratch ninjas:
+:warning: If there is any conflicting information, the Zen page is _guaranteed_ to be correct. 
+
+### What to bring
+
+  * A laptop for your ninja. If you do not have access to a laptop
+    please email coderdojo.iowa.city@gmail.com and we will try to make one available for you.
+
+In case there are difficulties connecting to the internet, please have the following software installed on the ninja's laptop
+**before** they come. Contact us ASAP if you are having installation trouble and we will try to provide thumb drives with the necessary software at the session.
+
+#### Scratch ninjas
+##### Suggested age: 5-6+
+Scratch is a visual programming language.  Coders drag-and-drop command blocks to connect tasks together.  Simple interface but expansive enough to challenge seasoned programmers as well.
   - [ ] install Scratch from [http://scratch.mit.edu](http://scratch.mit.edu)
 
 #### JavaScript and HTML/CSS ninjas
+##### Suggested age: 7-8+
+Web technologies are the basis of the Internet and can be used to create personal web pages or online games you can share with your friends.  It's suggested that coders have a good grasp of reading, writing, and basic math. Some ability to type is helpful.
   - [ ] install Brackets [http://brackets.io/](http://brackets.io/) or Notepad++ [http://notepad-plus-plus.org/](http://notepad-plus-plus.org).
 
 #### Java and Minecraft ninjas _(ADVANCED)_
+##### Suggested age: 12+
+Minecraft is one of the most popular games to be created and it's written completely in Java, an 'object-oriented' programming language.  Ninjas should be able to read well and understand how to organize and rewrite code.  Having one beginner language badge from any CoderDojo is __required__.  
   - [ ] install Eclipse from [https://eclipse.org/downloads/](https://eclipse.org/downloads/)
   - [ ] download latest Minecraft Forge source code and documentation from [http://files.minecraftforge.net/](http://files.minecraftforge.net/). You want the **recommended** _"Src"_ and _"Javadoc"_ files.  _Hint: to avoid the AdFly waiting page, click the "\*" link that's to the right of "Src" and "Javadoc"_
   - [ ] install Forge following these instructions on the wiki: [http://www.minecraftforge.net/wiki/Installation/Source](http://www.minecraftforge.net/wiki/Installation/Source)
+
+## Getting here
+
+We are **usually** at the [Iowa City Public
+Library](https://www.google.com/maps/place/Iowa+City+Public+Library), but please check our Zen page https://zen.coderdojo.com/dojo/68 for updates!
+
+##### ALL dojo updates will be done on our Zen page: https://zen.coderdojo.com/dojo/68
+
+## Key Times
+
+  * 1:30 PM: Volunteers begin setting up
+  * 1:50 PM: Doors open - parents and ninjas check in
+  * 2:00 PM: Welcome and kickoff -- Mentors will describe the goals for
+    their group and coding begins.
+  * 3:15 PM: Sessions wind up -- Mentors seek feedback from the ninjas
+    about the session and ask them what they want to try next time
+  * 3:20 PM: Show-and-tell -- ninjas demostrate new discoveries or solutions to challenges
+  * 3:30 PM: Volunteers begin shutting down
 
 ### When you arrive
 
