@@ -7,9 +7,8 @@
   * a named function
   * an anonymous function
   * an object with a function
-1. Show how to:
-  * write JavaScript directly inside an HTML file
-  * embed an external JavaScript module in an HTML file when:
+1. Show how to write JavaScript directly inside an HTML file
+1. Show how to embed an external JavaScript module in an HTML file when:
    * the JavaScript module is stored locally
    * the JavaScript module is stored in the cloud
 1. Demonstrate how to find documentation on JavaScript syntax
