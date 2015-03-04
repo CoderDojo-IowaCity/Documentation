@@ -17,13 +17,18 @@ have.
 
 ## Online registraton for sessions
 
-CoderDojo Iowa City uses Eventbrite.com's ticketing system to reserve spaces for ninjas at each session. Visit http://coderdojoic.eventbrite.com and click the event link to reserve spots for a session.  
+CoderDojo Iowa City uses Eventbrite.com's ticketing system to reserve spaces for ninjas at each session. It's free and tickets can be released if you can't attend.  Visit http://coderdojoic.eventbrite.com for more info.  
 
-Parents should reserve a 'Parent' ticket for themselves only if they are planning to attend with their ninja(s). You will need to reserve 'Ninja' tickets for every session your ninja(s) attends. This will helps us to know how many mentors we will need to adequately run the dojo.  Please specify the name of the ninja(s) on each ticket seperately so we can prepare name tags in advance. 
+## Mentors
+Mentors are asked to reserve tickets __> 1 week in advance__ of the dojo date to help the organizers.  :smiley:
 
-Mentors are asked to reserve tickets > 1 week in advance of the dojo date to help the organizers.  :smiley:
+For first-time mentors, read 
+  - [ ] the [mentor orientation](https://github.com/CoderDojo-IowaCity/Documentation/blob/iowa_city/Mentor_Orientation.md) and
+  - [ ] the [mentor guidebook](https://github.com/CoderDojo-IowaCity/Documentation/blob/iowa_city/Mentor_Guidebook.md) pages.
 
 ## Parents and ninjas
+
+Parents should reserve a 'Parent' ticket for themselves only if you are planning to attend with your ninja(s). __Please reserve a 'Ninja' ticket in advance every time your child attends.__ This will helps us to know how many mentors we need to run the dojo.  Please specify the name of the ninja(s) on each ticket seperately so we can prepare name tags in advance. 
 
 ### Before attending a session
 See our [Web Browsers](web_browsers.md) page for suggestions regarding the web browser used during coding sessions.
@@ -44,21 +49,28 @@ In the rare event that we have to cancel or move the dojo, we will make every ef
 
 ### What to bring
 
-  * A laptop for your ninja. If you do not have access to a laptop
-    please email coderdojo.iowa.city@gmail.com and we will try to make one available for you.
+  * A laptop for your ninja, _if possible_. If you do not have access to a laptop,
+    please email [coderdojo.iowa.city@gmail.com](mailto:coderdojo.iowa.city@gmail.com) and we will try to make one available for you.
 
 In case there are difficulties connecting to the internet, please have the following software installed on the ninja's laptop
 **before** they come. Contact us ASAP if you are having installation trouble and we will try to provide thumb drives with the necessary software at the session.
 
+#### Young ninjas
+##### Suggested age: 4-8
+For very young children, we suggest several apps and games:
+ * [Lightbot](http://lightbot.com/) - iTunes, Google Play, [Web version (free)](https://coderdojo.com/lightbot-coderdojo-edition/)
+ * [Daisy the Dinosaur](https://itunes.apple.com/us/app/daisy-the-dinosaur/id490514278?mt=8) - iTunes only
+
 #### Scratch ninjas
-##### Suggested age: 5-6+
+##### Suggested age: 5-10+
 Scratch is a visual programming language.  Coders drag-and-drop command blocks to connect tasks together.  Simple interface but expansive enough to challenge seasoned programmers as well.
   - [ ] install Scratch from [http://scratch.mit.edu](http://scratch.mit.edu)
 
 #### JavaScript and HTML/CSS ninjas
-##### Suggested age: 7-8+
+##### Suggested age: 10+
 Web technologies are the basis of the Internet and can be used to create personal web pages or online games you can share with your friends.  It's suggested that coders have a good grasp of reading, writing, and basic math. Some ability to type is helpful.
-  - [ ] install Brackets [http://brackets.io/](http://brackets.io/) or Notepad++ [http://notepad-plus-plus.org/](http://notepad-plus-plus.org).
+  - [ ] install Brackets [http://brackets.io/](http://brackets.io/) __OR__
+  - [ ] install Notepad++ [http://notepad-plus-plus.org/](http://notepad-plus-plus.org).
 
 #### Java and Minecraft ninjas _(ADVANCED)_
 ##### Suggested age: 12+
@@ -90,9 +102,6 @@ Library](https://www.google.com/maps/place/Iowa+City+Public+Library), but please
 Parents and ninjas check in at the 2nd floor computer lab. A mentor will help you sign in and guide you to the appropriate seat. Ninjas should get a name tag and print their first name on their name tag.
 
 Ninjas can join another group at any time.  Ninjas younger than 12 who are complete beginners are encouraged to join the Scratch group.  We encourage the parent and ninja to discuss and decided what session their ninja attends.  Talk to a mentor for advice on what session your ninja should attend.
-
-## Mentors
-Mentors are encouraged to lead groups with no more than 8 ninjas.  Having a limit on the number of ninjas per mentor makes sure that ninjas who register are able to receive adequate attention.
 
 ## Learning resources before your first session or in between sessions
 
