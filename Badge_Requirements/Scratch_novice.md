@@ -1,4 +1,4 @@
-![logo](url/or/path/to/logo)
+![logo](https://bitbucket-assetroot.s3.amazonaws.com/c/photos/2012/Nov/12/scratch-logo-792943973-10_avatar.png)
 # Novice - Scratch
 #### Requirements
 1. Demonstrate how to:
