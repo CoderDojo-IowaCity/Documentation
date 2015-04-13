@@ -20,4 +20,5 @@
   * one or more repeat blocks
   * at least one 'IF' block and
   * 3+ costumes
-1. Share an original project and collaborate with _at least_ two other ninjas
+// This requirement should be for *intermediate*
+// 1. Share an original project and collaborate with _at least_ two other ninjas
